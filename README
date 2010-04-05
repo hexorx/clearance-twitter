@@ -2,7 +2,7 @@ Use Twitter OAuth authentication on top of Clearance.
 
 1. Install:
 
-    script/plugin install git@github.com:thoughtbot/clearance-twitter.git
+    script/plugin install git://github.com/thoughtbot/clearance-twitter.git
 
 2. Get to red by generating the features:
 
